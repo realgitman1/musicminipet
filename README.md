@@ -3,7 +3,7 @@
 A simple desktop pet that sits on your screen and reacts to what you're doing — automatically.
 
 > Based on code from [squarelike's blog](https://squarelike.tistory.com/4), developed further with Claude 3.
-> GIF assets from [GIPHY](https://giphy.com/stickers/whatever-meow-dumdum-H4DSGeanR73ZilCn5o) by Monter Arhar.
+> GIF assets from [GIPHY](https://giphy.com/stickers/whatever-meow-dumdum-H4DSGeanR73ZilCn5o) by Monster Arhar.
 > The original author could not be reached; used in good faith for a non-commercial project.
 
 ---
