@@ -1,4 +1,5 @@
-# 🐱 Desktop Cat Pet
+# Desktop Cat Pet
+<img width="240" height="240" alt="idle1" src="https://github.com/user-attachments/assets/4f3bb49d-1999-4a41-9d5c-900ca60e9dd5" />
 
 A simple desktop pet that sits on your screen and reacts to what you're doing — automatically.
 
